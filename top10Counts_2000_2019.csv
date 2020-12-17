@@ -1,0 +1,73 @@
+MaritalStatus,OCC,Count
+Widowed,N/A (blank),9
+Widowed,Demonstrators,9
+Widowed,Telephone operators,9
+Widowed,"Dressmakers and seamstresses, except factory",9
+Widowed,Charwomen and cleaners,9
+Widowed,Laundry and dry cleaning Operatives,8
+Widowed,"Attendants, hospital and other institution",7
+Widowed,Bookkeepers,7
+Widowed,"Attendants and assistants, library",6
+Widowed,Practical nurses,3
+Widowed,Bus drivers,3
+Widowed,"Weavers, textile",3
+Divorced,Practical nurses,9
+Divorced,"Housekeepers and stewards, except private household",9
+Divorced,"Attendants, hospital and other institution",9
+Divorced,Telephone operators,7
+Divorced,"Collectors, bill and account",7
+Divorced,"Rollers and roll hands, metal",6
+Divorced,"Weavers, textile",5
+Divorced,Demonstrators,4
+Divorced,"Dispatchers and starters, vehicle",3
+Divorced,Opticians and lens grinders and polishers,3
+Divorced,"Cranemen,derrickmen, and hoistmen",3
+Divorced,Bus drivers,3
+Maried Spouse Present,Dentists,9
+Maried Spouse Present,Optometrists,9
+Maried Spouse Present,Physicians and surgeons,9
+Maried Spouse Present,Airplane pilots and navigators,9
+Maried Spouse Present,Farmers (owners and tenants),9
+Maried Spouse Present,Clergymen,9
+Maried Spouse Present,Veterinarians,6
+Maried Spouse Present,Locomotive engineers,6
+Maried Spouse Present,Lawyers and judges,4
+Maried Spouse Present,Power station operators,3
+Maried Spouse Present,Physicists,3
+Maried Spouse Present,"Tool makers, and die makers and setters",2
+Maried Spouse Absent,Members of the armed services,9
+Maried Spouse Absent,"Farm laborers, wage workers",9
+Maried Spouse Absent,Roofers and slaters,9
+Maried Spouse Absent,"Brickmasons,stonemasons, and tile setters",7
+Maried Spouse Absent,Cement and concrete finishers,6
+Maried Spouse Absent,Blasters and powdermen,5
+Maried Spouse Absent,Plasterers,4
+Maried Spouse Absent,"Shoemakers and repairers, except factory",4
+Maried Spouse Absent,"Weavers, textile",4
+Maried Spouse Absent,Dancers and dancing teachers,3
+Maried Spouse Absent,Taxicab drivers and chauffeurs,3
+Maried Spouse Absent,Asbestos and insulation workers,2
+Single Never Maried,Dancers and dancing teachers,9
+Single Never Maried,Waiters and waitresses,9
+Single Never Maried,"Ushers, recreation and amusement",9
+Single Never Maried,"Service workers, except private household (nec)",9
+Single Never Maried,Sports instructors and officials,9
+Single Never Maried,"Attendants, recreation and amusement",9
+Single Never Maried,N/A (blank),9
+Single Never Maried,Cashiers,9
+Single Never Maried,Counter and fountain workers,7
+Single Never Maried,Motion picture projectionists,6
+Single Never Maried,"Cooks, except private household",3
+Single Never Maried,Bartenders,2
+Separated,Charwomen and cleaners,9
+Separated,"Attendants, hospital and other institution",9
+Separated,Laundry and dry cleaning Operatives,9
+Separated,Roofers and slaters,7
+Separated,"Weavers, textile",4
+Separated,Plasterers,4
+Separated,Practical nurses,4
+Separated,"Meat cutters, except slaughter and packing house",4
+Separated,Taxicab drivers and chauffeurs,4
+Separated,Bookbinders,3
+Separated,Forgemen and hammermen,3
+Separated,Boilermakers,3
